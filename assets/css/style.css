@@ -3,12 +3,12 @@
 	++++ Preloader ++++
 	++++ Home page ++++
 	++++ Navigation Bootstrap ++++
-	++++ Vimoe and galley hover ++++	
-	++++ Team ++++	
+	++++ Vimoe and galley hover ++++
+	++++ Team ++++
 	++++ Button Effect ++++
-	++++ Schedule ++++	
-	++++ Registration Form ++++	
-	++++ Pricing ++++	
+	++++ Schedule ++++
+	++++ Registration Form ++++
+	++++ Pricing ++++
 	++++ Sponsor ++++
 	++++ Subscribe ++++
 	++++ Contact ++++
@@ -17,7 +17,7 @@
 
 /****************************/
 /** Reset **/
-/****************************/	
+/****************************/
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 	margin: 0;
@@ -26,14 +26,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, pre, a
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	
+
 }
 
 
 strong{
 	font-weight:bold;
 }
- 
+
 body {
 	color: #7a7a7a;
 	font-family: 'Raleway', sans-serif;
@@ -104,7 +104,7 @@ h6 {
 }
 
 p {
-	color: #5f6061;
+	color: #fff;
     font-size: 1.1em;
     line-height: 1.6em;
 }
@@ -114,7 +114,7 @@ p {
 
 .form-control::-webkit-input-placeholder { /* WebKit browsers */
     color: #fff;
-   
+
 }
 .form-control:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
     color: #fff;
@@ -408,13 +408,13 @@ canvas{
 	padding-top: 27.5px;
 }
 
-.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
 	color: rgba(251, 27, 53, 1);
 }
 
-.navbar-default .navbar-nav > .active > a, 
-.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
 	color: #fb1b35;
 	background: none;
@@ -451,7 +451,7 @@ canvas{
 }
 
 h1.arrow {
-	color: #363738;
+	color: #fff;
     font-size: 2.5em;
     font-weight: 700;
     letter-spacing: 0.3em;
@@ -478,7 +478,7 @@ h1.arrow {
 }
 
 .features p {
-	color: #f9f9f9;
+	color: #fff;
 }
 
 .features h2 {
@@ -525,7 +525,7 @@ figure.vimeo-video{
 
 
 .block-hover {
-	
+
 	background: url("../img/gallery/gallery.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0);
 	height: 392px;
 	-webkit-transition: background .2s ;
@@ -810,7 +810,7 @@ div.avatar {
 	-o-transition: all 0.3s ease 0s;
 	transition: all 0.3s ease 0s;
 }
-.btn-effect:hover:after, 
+.btn-effect:hover:after,
 .btn-effect:active:after {
 	height: 100%;
 }
@@ -877,7 +877,7 @@ div.avatar {
     text-transform: none;
     font-weight: 500;
     margin-right: 5px;
-	
+
 }
 
 .speaker-designaition{
@@ -1082,7 +1082,7 @@ div.avatar {
 }
 
 .nl-form input,
-.nl-form select, 
+.nl-form select,
 .nl-form button {
 	border: none;
 	background: transparent;
@@ -1369,7 +1369,7 @@ a {
 
 .disclaimer{
 	margin:0;
-	
+
 }
 .padding-none{
 	padding:0;
@@ -1654,7 +1654,7 @@ ul.slides li {
 /** Sponsor **/
 /*****************************/
 .ignite-cta {
-	background-color: #fff;
+	background-color: #212739;
 }
 
 .ignite-btn {
@@ -1679,7 +1679,7 @@ ul.slides li {
 #slider1_container{
 	margin:0 auto;
 	position: relative;
-	top: 0px; 
+	top: 0px;
 	left: 0px;
 	width: 980px;
 	height: 56px;
@@ -1691,9 +1691,9 @@ ul.slides li {
 	cursor: move;
 	position: absolute;
 	left: 0px;
-	top: 0px; 
+	top: 0px;
 	width: 980px;
-	height: 100px; 
+	height: 100px;
 	overflow: hidden;
 }
 
@@ -1784,7 +1784,7 @@ ul.planContainer {
 }
 
 .subscribe-overlay{
-	
+
     background: url("../img/macbook.jpg") no-repeat fixed center center / cover  rgba(0, 0, 0, 0);
     height: 100%;
     left: 0;
@@ -1876,7 +1876,7 @@ ul.planContainer {
     -webkit-transition: 0.5s;
     transition: 0.5s
     }
-	
+
 .subscribe button i{
 	font-size:1.5em;
 	font-size: 1.5em;
@@ -1887,8 +1887,8 @@ ul.planContainer {
     -o-transition: 0.5s;
     -webkit-transition: 0.5s;
     transition: 0.5s
-    
-	
+
+
 }
 .notify-success #message {
     color: #fb1b35;
@@ -1897,7 +1897,7 @@ ul.planContainer {
 	text-transform:capitalize;
 
     }
-	
+
 .error #message{
 
 	color: #EC7406;
@@ -1905,7 +1905,7 @@ ul.planContainer {
     margin-top: 10px;
 	text-transform:capitalize;
 
-	
+
 }
 
 /********************************/
@@ -1925,7 +1925,7 @@ ul.planContainer {
     color: #fb1b35;
     font-size: 0.43em;
 	text-transform:capitalize;
-	position: absolute; 
+	position: absolute;
 	width: 100%;
 	text-align: center;
 	left: 0px;
@@ -1946,7 +1946,7 @@ ul.planContainer {
 	color:#EC7406;
 	font-size: 0.43em;
 	text-transform:capitalize;
-	position: absolute; 
+	position: absolute;
 	width: 100%;
 	text-align: center;
 	left: 0px;

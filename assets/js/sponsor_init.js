@@ -10,7 +10,7 @@
 					$SlideDuration: 3000,                                //[Optional] Specifies default duration (swipe) for slide in milliseconds, default value is 500
 					$MinDragOffsetToSlide: 20,                          //[Optional] Minimum drag offset to trigger slide , default value is 20
 					$SlideWidth: 200,                                   //[Optional] Width of every slide in pixels, default value is width of 'slides' container
-					$SlideHeight: 56,                                //[Optional] Height of every slide in pixels, default value is height of 'slides' container
+					$SlideHeight: 200,                                //[Optional] Height of every slide in pixels, default value is height of 'slides' container
 					$SlideSpacing: 0, 					                //[Optional] Space between each slide in pixels, default value is 0
 					$DisplayPieces: 6,                                  //[Optional] Number of pieces to display (the slideshow would be disabled if the value is set to greater than 1), the default value is 1
 					$ParkingPosition: 0,                              //[Optional] The offset position to park slide (this options applys only when slideshow disabled), default value is 0.
