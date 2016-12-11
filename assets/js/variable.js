@@ -35,7 +35,7 @@ var _animationDuration = 1750; // animation duration
 countdown
 ==============================================================================*/
 var _countdown = true; // countdown toggle
-var _countdownDate = '12/10/2016 23:59:59'; // 2015-12-24 23:59:59
+var _countdownDate = '12/15/2016 23:59:59'; // 2015-12-24 23:59:59
 var _countdownTimezone = '+5.30'; // timezone
 
 /*=================================================
