@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('BebasNeue.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+.bes{
+  font-family: 'BebasNeue';
+}
+.title{
+  font-family: 'Oswald';
+  font-size:70pt;
+  color: #F0F1F2;
+  margin: 0;
+  letter-spacing: 5px;
+}
+.tagliness{
+  letter-spacing: 15px;
+}
+@media only screen and (max-width: 425px) {
+    /* For mobile phones: */
+    .title {
+        font-size: 50pt;
+        letter-spacing: normal;
+    }
+    .tagliness{
+      letter-spacing: normal;
+    }
+}
+
+.titles{
+  margin: auto;
+  z-index: 9999;
+}
+.abcd{
+  font-size: 1.1em;
+}
+.vertical-alignf {
+    display: flex;
+    align-items: center;
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+.rule-head{
+  font-family: 'Oswald';
+}
+.ruleclass{
+  margin-bottom: 30px;
+}
+.ruleclass > ul > li{
+  margin-bottom: 1%;
+  list-style-type: disc;
+}
+/* ---- particles.js container ---- */
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.caption{
+  padding: 0 !important;
+}

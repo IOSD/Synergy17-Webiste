@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://synergy.sddtu.org/</loc>
+  <lastmod>2016-12-20T22:36:56+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://synergy.sddtu.org/codewar.html</loc>
+  <lastmod>2016-12-20T21:49:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://synergy.sddtu.org/hackdtu.html</loc>
+  <lastmod>2016-12-20T21:49:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://synergy.sddtu.org/quedar.html</loc>
+  <lastmod>2016-12-20T21:47:57+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://synergy.sddtu.org/finquest.html</loc>
+  <lastmod>2016-12-20T21:49:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://synergy.sddtu.org/register.php</loc>
+  <lastmod>2016-12-20T22:35:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://synergy.sddtu.org/assets/docs/SD-DTU-Brochure.pdf</loc>
+  <lastmod>2016-12-03T20:35:49+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://synergy.sddtu.org/team.html</loc>
+  <lastmod>2016-12-20T22:34:20+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://synergy.sddtu.org/index.html</loc>
+  <lastmod>2016-12-20T22:36:56+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

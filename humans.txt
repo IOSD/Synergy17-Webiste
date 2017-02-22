@@ -1,0 +1,18 @@
+/* TEAM */
+	Chef:Krishna Rai
+	Contact: krishna@sddtu.org
+	Twitter: @juanjobernabeu
+	
+	UX developer: Nikhil Pandey
+	Contact: nikhil.pandey@sddtu.org
+	Twitter: @menikhilpandey
+	
+	Illustrator: Shubham Raturi
+	
+	Web designer: ProMohsin
+	
+/* SITE */
+	Last update:2016/12/17
+	Language: English
+	Doctype:HTML5
+	IDE: Atom, Sublime Text, CoreFTP, FileZilla, Photoshop
